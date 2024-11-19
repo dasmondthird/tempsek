@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SystemInfoApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gosha</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gosha</Value>
+    </Setting>
+    <Setting Name="BaseAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://your-c2-server.com/api/</Value>
+    </Setting>
+    <Setting Name="WebSocketUri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wss://your-c2-server.com/ws</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

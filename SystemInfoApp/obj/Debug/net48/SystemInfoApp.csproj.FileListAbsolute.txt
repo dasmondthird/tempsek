@@ -1,0 +1,16 @@
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Release\net48\Accord.dll.config
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Release\net48\SystemInfoApp.exe.config
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Release\net48\SystemInfoApp.exe
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Release\net48\SystemInfoApp.pdb
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Release\net48\Accord.dll
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Release\net48\Accord.Video.dll
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Release\net48\Accord.Video.DirectShow.dll
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Release\net48\Newtonsoft.Json.dll
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\net48\SystemInfoApp.csproj.AssemblyReference.cache
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\net48\SystemInfoApp.Properties.Resources.resources
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\net48\SystemInfoApp.csproj.GenerateResource.cache
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\net48\SystemInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\net48\SystemInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\net48\SystemIn.82ED522C.Up2Date
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\net48\SystemInfoApp.exe
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\net48\SystemInfoApp.pdb

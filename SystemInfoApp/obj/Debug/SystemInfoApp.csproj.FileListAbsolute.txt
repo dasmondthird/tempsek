@@ -1,0 +1,16 @@
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\SystemInfoApp.csproj.AssemblyReference.cache
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\SystemInfoApp.Properties.Resources.resources
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\SystemInfoApp.csproj.GenerateResource.cache
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\SystemInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\SystemInfoApp.exe.config
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\SystemInfoApp.exe
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\SystemInfoApp.pdb
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\SystemInfoApp.exe
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\SystemInfoApp.pdb
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\AForge.dll
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\AForge.Video.dll
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\AForge.xml
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\AForge.Video.xml
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\gerga.DESKTOP-BSQOQP7\source\repos\SystemInfoApp\obj\Debug\SystemIn.82ED522C.Up2Date
