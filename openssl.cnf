@@ -1,0 +1,23 @@
+# openssl.cnf
+
+[ req ]
+default_bits        = 4096
+default_md          = sha256
+default_keyfile     = key.pem
+distinguished_name  = req_distinguished_name
+x509_extensions     = v3_req
+prompt              = no
+
+[ req_distinguished_name ]
+C  = RU
+ST = Moscow
+L  = Moscow
+O  = MyCompany
+OU = MyDepartment
+CN = localhost
+
+[ v3_req ]
+subjectAltName = @alt_names
+
+[ alt_names ]
+DNS.1 = localhost
